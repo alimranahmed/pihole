@@ -1,5 +1,5 @@
 ## Pi-Hole
-[Pi-Hole] a network wide is an add blocker(DNS based) for home network 
+[Pi-Hole](https://pi-hole.net/) a network wide is an add blocker(DNS based) for home network 
 
 ### Installation
 1. Clone this repo on the server where you want to run Pi-Hole as DNS server.
@@ -10,3 +10,8 @@
 6. Visit: http://<machines-ip-address>/admin and you should see the Pi-Hole web interface
 7. Make sure you set the DNS in your router to the ip address(ipv4 and ipv6) of the machine where Pi-Hole is installed
 8. Now you should see all the block add in the PI-Hole web interface
+
+
+### Links
+1. [Pi-Hole GitHub Repo](https://github.com/pi-hole/pi-hole)
+2. [Domains to block by category](https://github.com/StevenBlack/hosts/)
